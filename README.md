@@ -26,6 +26,7 @@ Welcome to **Cosmic Code Hub** — your cosmic launchpad to explore programming 
 - Add user authentication for personalized experience
 - Expand local knowledge base with more coding concepts
 - Deploy live demo link here
+- Need to improve more for the users to have a enjoyable and clarity learning
 
 ---
 
